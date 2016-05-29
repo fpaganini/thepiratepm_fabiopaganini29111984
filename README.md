@@ -28,5 +28,5 @@ you should have basic knowledge of Git, Github, Markdown and - hopefully - Proje
 ##License
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/hyperium/hyper/master/LICENSE)
 
-
-######Long live [Open Source](https://opensource.org/) & [Guerilla Open Access](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt)!
+##Hail!
+Long live [Open Source](https://opensource.org/) & [Guerilla Open Access](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt)!
