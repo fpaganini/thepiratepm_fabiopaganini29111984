@@ -8,7 +8,7 @@ All but one are single and multiple choice questions.
 
 ######Note 2: The creator of this questionnaire has neither background in human resources nor formal education in industrial and organizational psychology.
 
-######Note 3: The creator of this questionnaire believes that, when it comes to really get to know someone, no questionnaire or test can replace a good, honest and deep conversation. 
+######Note 3: The creator of this questionnaire believes that, when it comes to really get to know someone, no questionnaire or test can replace a good, honest and deep conversation.
 
 ##Version
 0.1
@@ -23,11 +23,12 @@ you should have basic knowledge of Git, Github and Markdown ;-)
 2. Clone it to local;
 3. Unpack the QUESTIONNAIRE package;
 4. Follow the intructions from the START_HERE file.
-	
+
 ##Contributors
-I would love to hear your feedback. Plus, all suggestions are welcome. Please, use the issue tracker to get in touch.
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/42piratas/thepiratepm/issues)  
 
 ##License
-The Pirate Project Manager Questionnaire is licensed under the MIT License. Please, see the LICENSE file for details. 
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/hyperium/hyper/master/LICENSE)
+
 
 ######Long live [Open Source](https://opensource.org/) & [Guerilla Open Access](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt)!
