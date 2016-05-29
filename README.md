@@ -9,7 +9,7 @@ The Pirate Project Manager Questionnaire is a set of questions (in format of Use
 ######Note 3: The creator of this questionnaire believes that, when it comes to really get to know someone, no questionnaire or test can replace a good, honest and deep conversation.
 
 ##Version
-0.1
+0.5
 
 ##Prerequisites
 In order to fill up the questionnaire,  
