@@ -9,7 +9,7 @@ The Pirate Project Manager Questionnaire is a set of questions (in format of Use
 ######Note 3: The creator of this questionnaire believes that, when it comes to really get to know someone, no questionnaire or test can replace a good, honest and deep conversation.
 
 ##Version
-0.5
+0.85. Waiting for final testing to be released. 
 
 ##Prerequisites
 In order to fill up the questionnaire,  
@@ -24,6 +24,9 @@ you should have basic knowledge of Git, Github, Markdown and - hopefully - Proje
 
 ##Contributors
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/42piratas/thepiratepm/issues)  
+
+##Thanks  
+- [Fábio Paganini](https://github.com/fpaganini)  
 
 ##License
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/hyperium/hyper/master/LICENSE)
