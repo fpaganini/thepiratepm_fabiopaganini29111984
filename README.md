@@ -5,9 +5,9 @@ The Pirate Project Manager Questionnaire is a set of questions (in format of Use
 #####Note: This is a work-in-progress!
 
 ##Important!
-#####1: The creator of this questionnaire has neither background in human resources nor formal education in industrial and organizational psychology.
+######1: The creator of this questionnaire has neither background in human resources nor formal education in industrial and organizational psychology.
 
-#####2: The creator of this questionnaire believes that, when it comes to really get to know someone, no questionnaire or test can replace a good, honest and deep conversation.
+######2: The creator of this questionnaire believes that, when it comes to really get to know someone, no questionnaire or test can replace a good, honest and deep conversation.
 
 ##Version
 0.85. Waiting for final testing to be released. 
